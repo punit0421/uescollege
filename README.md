@@ -1,7 +1,7 @@
 # uescollege
 htm<DOCTYPEl>
 <html>
-<head>
+<head>  
 <title>UES college</title>
 </head>
 <body>
